@@ -1,2 +1,4 @@
 # 2023-SE-32_DIP_Task_9
 Lab Task 09
+Prompt
+Task 09 Design a Python program using OpenCV, NumPy, and Matplotlib to perform a comprehensive color image analysis on a user-uploaded image. The program should allow the user to upload an image at runtime, convert it to grayscale, and display both the original and grayscale images. Extract and visualize the Red, Green, and Blue color channels separately. Convert the image into different color spaces including HSV, YCbCr, and Lab, and display each representation. Apply a white balance correction using the Gray World assumption and show the corrected result. Perform color masking to isolate a specific color (such as green) using the HSV color space. Finally, apply a simple segmentation technique in another color space (e.g., thresholding on the Lab a channel) and compare the segmentation effectiveness across different color spaces through visual analysis.
